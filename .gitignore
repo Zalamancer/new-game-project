@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+node_modules/
+.next/
+.build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.godot/
+.import/
+dist/
+build/
+out/
+.DS_Store
+.env
+.env.*
+*.env
